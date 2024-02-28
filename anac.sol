@@ -15,7 +15,7 @@ contract Anac {
     address public dono;
 
     //Construtor
-    constructor() public{
+    constructor() {
         //Atribuindo um valor inicial para a variável idade
         idade = 18;
         //Atribuindo o endereço do dono do contrato
